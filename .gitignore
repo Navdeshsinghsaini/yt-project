@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+  // "homepage": "https://Navdeshsinghsaini.github.io/youtube",
+   // "predeploy" : "npm run build",
+    // "deploy" : "gh-pages -d build",
 # dependencies
 /node_modules
 /.pnp
